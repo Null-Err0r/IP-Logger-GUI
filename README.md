@@ -1,5 +1,7 @@
 # 📝 IP Logger GUI 
-
+  <img src="https://img.shields.io/badge/Language-Rust-orange" alt="Language: Rust" />
+  <img src="https://img.shields.io/badge/OS-Windows-blue" alt="OS: Windows" />
+  <img src="https://img.shields.io/badge/OS-Linux-Red" alt="OS: Linux" />
 A lightweight, cross-platform graphical IP logger built in Rust using `egui` and `eframe`.
 
 این ابزار یک لاگر گرافیکی IP بسیار سبک و قابل‌اجرا روی ویندوز و لینوکس است که با زبان Rust و رابط کاربری `egui` ساخته شده است.
